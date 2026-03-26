@@ -6,6 +6,7 @@ import FadeInSection from "@/components/FadeInSection";
 import heroImg from "@/assets/hero-restaurant.jpg";
 import interiorImg from "@/assets/gallery-interior.jpg";
 import terraceImg from "@/assets/gallery-terrace.jpg";
+import diningImg from "@/assets/gallery-dining.jpg";
 import foodFish from "@/assets/food-grilled-fish.jpg";
 import foodPrawns from "@/assets/food-prawns.jpg";
 import foodCrab from "@/assets/food-crab.jpg";
@@ -16,9 +17,10 @@ import drinkCapucino from "@/assets/drink-es-capucino.jpg";
 import drinkKelapa from "@/assets/drink-es-kelapa-hijau.jpg";
 
 const images = [
-  { src: heroImg, alt: "Ocean view dining" },
-  { src: interiorImg, alt: "Restaurant interior" },
-  { src: terraceImg, alt: "Terrace at sunset" },
+  { src: heroImg, alt: "Restaurant exterior" },
+  { src: interiorImg, alt: "Music corner interior" },
+  { src: terraceImg, alt: "Evening ambiance with lanterns" },
+  { src: diningImg, alt: "Dining area" },
   { src: foodFish, alt: "Grilled fish" },
   { src: foodPrawns, alt: "Butter prawns" },
   { src: foodCrab, alt: "Spicy crab" },
