@@ -36,7 +36,7 @@ const About = () => {
                   <p>
                     Warung Laut Connective was born from a simple yet profound idea — to create a space where 
                     people could reconnect with nature through the art of seafood dining. Nestled within the 
-                    vibrant Condong Square, our restaurant reimagines the traditional Indonesian warung into 
+                    our location, we reimagine the traditional Indonesian warung into 
                     a modern culinary sanctuary.
                   </p>
                   <p>

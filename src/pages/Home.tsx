@@ -36,7 +36,7 @@ const Home = () => {
 
         <div className="relative z-10 h-full flex flex-col items-center justify-center text-center px-6">
           <p className="font-body text-sm uppercase tracking-[0.3em] text-gold mb-4 animate-fade-in" style={{ animationDelay: "0.3s" }}>
-            by Condong Square
+            Where Sea Meets Nature
           </p>
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-light text-sand mb-4 animate-fade-in-up">
             Warung Laut
@@ -72,7 +72,7 @@ const Home = () => {
                 A Culinary Journey by the Sea
               </h2>
               <p className="font-body text-muted-foreground leading-relaxed text-lg">
-                Nestled at the heart of Condong Square, Warung Laut Connective is a modern seafood destination 
+                Warung Laut Connective is a modern seafood destination 
                 where fresh ocean flavors meet lush tropical nature. Every dish tells a story of the sea, 
                 crafted with passion and served in an atmosphere of serene elegance.
               </p>

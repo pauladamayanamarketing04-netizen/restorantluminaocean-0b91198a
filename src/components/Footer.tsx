@@ -12,7 +12,7 @@ const Footer = () => {
               Warung Laut <span className="text-gold">Connective</span>
             </h3>
             <p className="font-body text-sm leading-relaxed text-sand/60 mb-6">
-              Where sea meets nature. A modern seafood destination by Condong Square.
+              Where sea meets nature. A modern seafood destination.
             </p>
             <div className="flex gap-4">
               <a
@@ -114,7 +114,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-gold/10 mt-12 pt-8 text-center">
           <p className="font-body text-xs text-sand/40">
-            © {new Date().getFullYear()} Warung Laut Connective by Condong Square. All rights reserved.
+            © {new Date().getFullYear()} Warung Laut Connective. All rights reserved.
           </p>
         </div>
       </div>
